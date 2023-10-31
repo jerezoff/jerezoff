@@ -1,25 +1,30 @@
-Hello! Welcome to my GitHub profile, i don't know what you are look for here, cause i'm very shy to make public repo, so maybe i do, in future...
+# About Me
 
-I'm realy like this color style, much better then green ones, wish GitHub will keep it!
+<b style="text-align: center"> Hello! Welcome to my GitHub profile, 
+ i don't know what you are look for, 
+ cause i'm very shy to make public repo, 
+ but maybe i, in the future...
+</b>
 
-![image](https://github.com/jerezoff/jerezoff/assets/44382024/52da8da1-8e12-4c04-a05f-c91bcc0c122a)
+> [!NOTE]
+>
+> ![image](https://github.com/jerezoff/jerezoff/assets/44382024/52da8da1-8e12-4c04-a05f-c91bcc0c122a)
+>
+> I'm realy like this color style, much better than green ones, wish GitHub will keep it!
 
-Also this what i looks like to someone other watching :) do you find this same for you?
+> [!NOTE]
+> Also, this what i looks like to someone other watching :) do you find this same for you?
+> [working](https://github.com/jerezoff/jerezoff/assets/44382024/6368afd0-7d21-4cd6-8761-e65527816fc9)
 
-![working](https://github.com/jerezoff/jerezoff/assets/44382024/6368afd0-7d21-4cd6-8761-e65527816fc9)
+# My Stack
 
+> [!NOTE]
+> You can get detailed info in [**My Stack List**](https://github.com/stars/jerezoff/lists/my-stack)
 
-<!--
-**jerezoff/jerezoff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### FrontEnd
 
-Here are some ideas to get you started:
+| FrameWork | Stars                                                                                             |
+|-----------|---------------------------------------------------------------------------------------------------|
+| HTML      | :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_square_button: |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### BackEnd
