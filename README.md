@@ -1,4 +1,13 @@
-![](https://i.imgur.com/8n3CVb8.gif)
+Hello! Welcome to my GitHub profile, i don't know what you are look for here, cause i'm very shy to make public repo, so maybe i do, in future...
+
+I'm realy like this color style, much better then green ones, wish GitHub will keep it!
+
+![image](https://github.com/jerezoff/jerezoff/assets/44382024/52da8da1-8e12-4c04-a05f-c91bcc0c122a)
+
+Also this what i looks like to someone other watching :) do you find this same for you?
+
+![working](https://github.com/jerezoff/jerezoff/assets/44382024/6368afd0-7d21-4cd6-8761-e65527816fc9)
+
 
 <!--
 **jerezoff/jerezoff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
