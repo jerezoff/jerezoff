@@ -1,25 +1,40 @@
-Hello! Welcome to my GitHub profile, i don't know what you are look for here, cause i'm very shy to make public repo, so maybe i do, in future...
+# Readme.md
 
-I'm realy like this color style, much better then green ones, wish GitHub will keep it!
+## About Me
 
-![image](https://github.com/jerezoff/jerezoff/assets/44382024/52da8da1-8e12-4c04-a05f-c91bcc0c122a)
+### Summary
 
-Also this what i looks like to someone other watching :) do you find this same for you?
+<b style="text-align: center"> Hello! Welcome to my GitHub profile, 
+ i don't know what you are look for, 
+ cause i'm very shy to make public repo, 
+ but maybe i, in the future...
+</b>
 
-![working](https://github.com/jerezoff/jerezoff/assets/44382024/6368afd0-7d21-4cd6-8761-e65527816fc9)
+### Notes
+
+> [!NOTE]
+>
+> ![cute](https://github.com/jerezoff/jerezoff/assets/44382024/52da8da1-8e12-4c04-a05f-c91bcc0c122a)
+>
+> I'm realy like this color style, much better than green ones, wish GitHub will keep it!
+
+> [!NOTE]
+> 
+> ![working](https://github.com/jerezoff/jerezoff/assets/44382024/6368afd0-7d21-4cd6-8761-e65527816fc9)
+> 
+> Also, this what I look like to someone other watching :) do you find this same for you?
+
+### My Links
+
+[<img src="./media/telegram.svg" width="50" height="auto" alt="Telegram">](https://t.me/osintflexer/)
+[<img src="./media/www.svg" width="50" height="auto" alt="Site">](https://jerezoff.github.io/)
+[<img src="./media/yt.svg" width="50" height="auto" alt="Site">](https://www.youtube.com/@jerezoff)
 
 
-<!--
-**jerezoff/jerezoff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My Stack
 
-Here are some ideas to get you started:
+> [!NOTE]
+> You can get detailed info in [**My Stack List**](https://github.com/stars/jerezoff/lists/my-stack)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 
