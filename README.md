@@ -1,18 +1,10 @@
-# Readme.md
-
-## About Me
-
 ### My Links
+* [Telegram](https://t.me/jerez_off)
+* [Youtube](https://www.youtube.com/@jerezoff)
+* [Twitch](https://twitch.tv/jerezoff)
 
-[<img src="./media/telegram.svg" width="50" height="auto" alt="Telegram">](https://t.me/osintflexer/)
-[<img src="./media/www.svg" width="50" height="auto" alt="Site">](https://jerezoff.github.io/)
-[<img src="./media/yt.svg" width="50" height="auto" alt="Site">](https://www.youtube.com/@jerezoff)
-
-
-## My Stack
-
-> [!NOTE]
-> You can get detailed info in [**My Stack List**](https://github.com/stars/jerezoff/lists/my-stack)
-
-
-## 
+My telegram bot token:
+```
+1923785561:R5tY8RhoHC2THXLD3oOxaVRiXgiuFCRBTvi
+```
+<sub>jk :D
